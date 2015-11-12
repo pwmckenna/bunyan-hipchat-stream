@@ -1,0 +1,13 @@
+{
+  "name": "bunyan-hipchat-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "example": "node example"
+  },
+  "devDependencies": {
+    "bunyan": "^1.5.1"
+  },
+  "dependencies": {}
+}
